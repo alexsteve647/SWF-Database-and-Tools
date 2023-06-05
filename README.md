@@ -8,3 +8,5 @@ Added Languages Between:
 1.200 ~ 1.300
 1.301 ~ 1.585
 1.600 ~ CURRENT (1.699)
+
+All this repository zip archice size is about 1GB.
